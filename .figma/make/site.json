@@ -1,0 +1,10 @@
+{
+  "description": "Stream and control music in an animated player with immersive parallax effects, creating a more engaging listening experience.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
